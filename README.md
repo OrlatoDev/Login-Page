@@ -1,2 +1,2 @@
 # Login-Page
-Uma simples tela de login com HTML e CSS, um dos meu primeiros projetos web
+A very simple login page made with HTML and CSS that is one of my firt web projects.
